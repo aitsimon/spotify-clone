@@ -1,10 +1,12 @@
-# ReSpoted
+# ReSpoted a Spotify Clone in a PWA
 
 ## Project Description
 
 This project is a Spotify clone that allows users to create an account, search for songs, and create playlists. Users can also follow other users and view their playlists. This project was created using Vue, Quasar, and Node.js as the main technologies.
 
 It's my first major project created on Vue, so feel free to give me any feedback on how I can improve my code. I hope it can be useful to anyone who wants to learn Vue or Quasar. I also hope it can be useful to anyone who wants to learn how to use the Spotify Web API. I've tried to make the code as readable as possible, but if you have any questions, feel free to ask. I'll try to answer them as best as I can.
+
+Currtently the project is deployed here: https://respoted.onrender.com/. However, Spotify Developer limitations don't allow everybody to use it. In order to try it I have to add your email in my Spotify Developer Dashboard. Feel free to ping me to join.
 
 ## Technologies Used
 
