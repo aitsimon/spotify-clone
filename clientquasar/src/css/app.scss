@@ -1,0 +1,31 @@
+// app global css in SCSS form
+.text-secondaryLighter {
+  color: #2f2f2f !important;
+}
+.bg-secondaryLighter {
+  background: #242424 !important;
+}
+.bg-secondaryLighterOpacityReduced {
+  background: #24242481 !important;
+  box-shadow: 0 -1vw 1vw 0px #24242481 !important;
+}
+.bg-spotifyGreen {
+  background: #1db954 !important;
+}
+.bg-overallBg {
+  background: #e0e0e0 !important;
+}
+.body--light {
+  --q-primary: #191414;
+  --q-secondary: #f3f3f3;
+  --q-accent: #fc3c44;
+}
+.body--dark .bg-overallBg {
+  background: #191414 !important;
+}
+h2 {
+  font-size: xx-large;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}

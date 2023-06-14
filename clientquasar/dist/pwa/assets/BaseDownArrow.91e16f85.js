@@ -1,0 +1,1 @@
+import{a7 as r,o as s,ae as a,a as t,a0 as n,X as c}from"./index.1c897ed3.js";const _={class:"row justify-end col-12"},m={__name:"BaseDownArrow",setup(i){const e=r();return(l,o)=>(s(),a("div",_,[t(c,{flat:"",round:"",size:"lg",color:"primary",icon:"expand_more",onClick:o[0]||(o[0]=u=>n(e).go(-1))})]))}};export{m as _};

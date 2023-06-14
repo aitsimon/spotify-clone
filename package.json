@@ -1,0 +1,29 @@
+{
+  "name": "spotify22",
+  "description": "SPOTIFY2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:client": "cd clientquasar && quasar build -m pwa",
+    "build:server": "cd server && npm run dev",
+    "build": "concurrently  \"npm run build:server\" \"npm run build:client\"",
+    "dev:client": "cd clientquasar && quasar dev -m pwa",
+    "dev:server": "cd server && npm run dev",
+    "dev": "concurrently  \"npm run dev:server\" \"npm run dev:client\"",
+    "install": "npm i && cd clientquasar && npm i -g @quasar/cli && npm i && cd ../server && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitsimon/spotify22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aitsimon/spotify22/issues"
+  },
+  "homepage": "https://github.com/aitsimon/spotify22#readme",
+  "dependencies": {
+    "concurrently": "^8.0.1"
+  }
+}

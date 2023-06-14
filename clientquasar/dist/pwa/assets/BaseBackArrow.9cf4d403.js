@@ -1,0 +1,1 @@
+import{a7 as a,o as e,ae as s,a as t,a0 as n,X as c}from"./index.1c897ed3.js";const _={class:"row justify-start q-mb-md"},p={__name:"BaseBackArrow",setup(i){const r=a();return(u,o)=>(e(),s("div",_,[t(c,{flat:"",round:"",color:"primary",icon:"arrow_back_ios_new",onClick:o[0]||(o[0]=m=>n(r).go(-1))})]))}};export{p as _};
