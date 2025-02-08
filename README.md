@@ -6,7 +6,7 @@ This project is a Spotify clone that allows users to create an account, search f
 
 It's my first major project created on Vue, so feel free to give me any feedback on how I can improve my code. I hope it can be useful to anyone who wants to learn Vue or Quasar. I also hope it can be useful to anyone who wants to learn how to use the Spotify Web API. I've tried to make the code as readable as possible, but if you have any questions, feel free to ask. I'll try to answer them as best as I can.
 
-Currtently the project is deployed here: https://respoted.onrender.com/. However, Spotify Developer limitations don't allow everybody to use it. In order to try it I have to add your email in my Spotify Developer Dashboard. Feel free to ping me to join.
+Currently the project is deployed here: https://respoted.onrender.com/. However, Spotify Developer limitations don't allow everybody to use it. In order to try it I have to add your email in my Spotify Developer Dashboard. Feel free to ping me to join.
 
 https://github.com/aitsimon/spotify-clone/assets/98778142/7ed1fb7b-2719-41be-b9a6-3812ff8d326d
 
